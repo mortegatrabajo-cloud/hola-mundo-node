@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo-node",
+  "version": "1.0.0",
+  "description": "App de prueba Hola Mundo en Node.js con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "license": "MIT"
+}
